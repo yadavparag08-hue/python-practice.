@@ -2,14 +2,20 @@
 
 This repository contains the Python programs I'm writing while learning Python in my first semester.
 
-### Topics Covered
+### Topics
 - Python Basics
 - Variables and Data Types
 - Conditional Statements
 - Loops
-- Strings and Lists
 - Functions
+- Strings and Lists
 - Tuples and Dictionaries
 - Object-Oriented Programming
 
-I'll keep adding programs as I learn new concepts.
+### Programs
+- Hello World
+- Even or Odd
+- Loops
+- Variables
+
+I'll keep updating this repository as I learn new concepts and practise more programs.
